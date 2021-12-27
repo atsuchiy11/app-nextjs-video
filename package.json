@@ -1,0 +1,10 @@
+{
+  "name": "prime-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:prime-x-co-ltd/prime-stream.git",
+  "license": "MIT",
+  "author": "A.tsuchiya",
+  "devDependencies": {},
+  "dependencies": {}
+}

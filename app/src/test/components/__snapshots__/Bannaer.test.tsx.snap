@@ -1,0 +1,254 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Uniit: Banner matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-wraper-1"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-7 makeStyles-root-2"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-card-3 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="banner"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-media-4"
+            data-testid="banner-image"
+            style="background-image: url(/design.jpg);"
+            title="Banner Image"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-8 makeStyles-description-5"
+            >
+              <h6
+                class="MuiTypography-root MuiTypography-subtitle2"
+                data-testid="banner-title"
+              >
+                title
+              </h6>
+              <p
+                class="MuiTypography-root makeStyles-overflow-6 MuiTypography-caption"
+                data-testid="banner-text"
+              >
+                Learning path description ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-card-3 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="banner"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-media-4"
+            data-testid="banner-image"
+            style="background-image: url(/design.jpg);"
+            title="Banner Image"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-9 makeStyles-description-5"
+            >
+              <h6
+                class="MuiTypography-root MuiTypography-subtitle2"
+                data-testid="banner-title"
+              >
+                title
+              </h6>
+              <p
+                class="MuiTypography-root makeStyles-overflow-6 MuiTypography-caption"
+                data-testid="banner-text"
+              >
+                Learning path description ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-card-3 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="banner"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-media-4"
+            data-testid="banner-image"
+            style="background-image: url(/design.jpg);"
+            title="Banner Image"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-10 makeStyles-description-5"
+            >
+              <h6
+                class="MuiTypography-root MuiTypography-subtitle2"
+                data-testid="banner-title"
+              >
+                title
+              </h6>
+              <p
+                class="MuiTypography-root makeStyles-overflow-6 MuiTypography-caption"
+                data-testid="banner-text"
+              >
+                Learning path description ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-card-3 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="banner"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-media-4"
+            data-testid="banner-image"
+            style="background-image: url(/design.jpg);"
+            title="Banner Image"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-11 makeStyles-description-5"
+            >
+              <h6
+                class="MuiTypography-root MuiTypography-subtitle2"
+                data-testid="banner-title"
+              >
+                title
+              </h6>
+              <p
+                class="MuiTypography-root makeStyles-overflow-6 MuiTypography-caption"
+                data-testid="banner-text"
+              >
+                Learning path description ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-card-3 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="banner"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-media-4"
+            data-testid="banner-image"
+            style="background-image: url(/design.jpg);"
+            title="Banner Image"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-12 makeStyles-description-5"
+            >
+              <h6
+                class="MuiTypography-root MuiTypography-subtitle2"
+                data-testid="banner-title"
+              >
+                title
+              </h6>
+              <p
+                class="MuiTypography-root makeStyles-overflow-6 MuiTypography-caption"
+                data-testid="banner-text"
+              >
+                Learning path description ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-card-3 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="banner"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-media-4"
+            data-testid="banner-image"
+            style="background-image: url(/design.jpg);"
+            title="Banner Image"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-13 makeStyles-description-5"
+            >
+              <h6
+                class="MuiTypography-root MuiTypography-subtitle2"
+                data-testid="banner-title"
+              >
+                title
+              </h6>
+              <p
+                class="MuiTypography-root makeStyles-overflow-6 MuiTypography-caption"
+                data-testid="banner-text"
+              >
+                Learning path description ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="970" height="253.36" viewBox="0 0 970 253.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e9cd32;
+      }
+
+      .cls-2 {
+        fill: #16938b;
+      }
+
+      .cls-3 {
+        fill: #3492c3;
+      }
+
+      .cls-4 {
+        fill: #cd3b2b;
+      }
+
+      .cls-5 {
+        fill: #9e8775;
+      }
+
+      .cls-6 {
+        fill: #6c193f;
+      }
+    </style>
+  </defs>
+  <title>design</title>
+  <g id="レイヤー_2" data-name="レイヤー 2">
+    <g id="レイヤー_1-2" data-name="レイヤー 1">
+      <g>
+        <polygon class="cls-1" points="138.23 0 0 0 0 79.81 138.23 0"/>
+        <polygon class="cls-2" points="60.58 61.01 0 95.99 0 253.36 171.63 253.36 60.58 61.01"/>
+        <polygon class="cls-3" points="414.15 253.36 541.76 179.68 438.02 0 166.26 0 72.72 54 187.82 253.36 414.15 253.36"/>
+        <polygon class="cls-4" points="553.9 172.68 851.26 0.99 850.68 0 454.2 0 553.9 172.68"/>
+        <polygon class="cls-5" points="746.12 253.36 670.14 121.75 442.18 253.36 746.12 253.36"/>
+        <polygon class="cls-6" points="970 0 881.01 0 682.27 114.74 762.31 253.36 970 253.36 970 0"/>
+      </g>
+    </g>
+  </g>
+</svg>

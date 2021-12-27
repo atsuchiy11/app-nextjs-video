@@ -1,0 +1,16 @@
+aws-dynamodb-parser==0.1.2
+boto3==1.17.96
+botocore==1.20.96
+certifi==2021.5.30
+chardet==4.0.0
+future==0.18.2
+idna==2.10
+jmespath==0.10.0
+python-dateutil==2.8.1
+PyVimeo==1.1.0
+requests==2.25.1
+s3transfer==0.4.2
+six==1.16.0
+tinydb==4.4.0
+tuspy==0.2.5
+urllib3==1.26.5

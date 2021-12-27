@@ -1,0 +1,381 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit: TagGridList matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root MuiBox-root-5 makeStyles-wraper-1"
+  >
+    <button
+      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall"
+      data-testid="arrow-icon"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiIconButton-label"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+          />
+        </svg>
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+    <div
+      class="MuiBox-root MuiBox-root-6 makeStyles-root-2"
+      id="chips-wraper"
+    >
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          マーケティング
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          動画制作
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          SEM
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          SEO
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          HTML
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          WEBデザイン
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          SQL
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          CSS
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          TypeScript
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          JavaScript
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          デジタルツール
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          WordPress
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          コンサルティング
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          若手
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          リーダー
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          勤怠
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          コアバリュー
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          Yahoo!JAPAN
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          Google
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          Criteo
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root makeStyles-tag-3 MuiChip-clickable"
+        data-testid="chip"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          Marketo
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall"
+      data-testid="arrow-icon"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiIconButton-label"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M5.88 4.12L13.76 12l-7.88 7.88L8 22l10-10L8 2z"
+          />
+        </svg>
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+  <hr
+    class="MuiDivider-root makeStyles-divider-4"
+  />
+</DocumentFragment>
+`;

@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Uniit: VideoItem matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <a
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiCardActionArea-root"
+      data-testid="video-link"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="MuiCardMedia-root makeStyles-media-2"
+        style="background-image: url(/design.jpg);"
+        title="video title"
+      >
+        <p
+          class="MuiTypography-root makeStyles-playtime-3 MuiTypography-overline"
+        >
+          3:24
+        </p>
+      </div>
+      <div
+        class="MuiCardContent-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextPrimary"
+        >
+          Video Title
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-caption MuiTypography-colorTextSecondary"
+        >
+          Video Description ...
+        </p>
+      </div>
+      <span
+        class="MuiCardActionArea-focusHighlight"
+      />
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </a>
+  </div>
+</DocumentFragment>
+`;

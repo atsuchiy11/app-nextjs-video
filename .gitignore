@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Vimeo credentials
+.credentials.json
+
+# Verrification
+.test
+
+# Python env files
+.venv/
